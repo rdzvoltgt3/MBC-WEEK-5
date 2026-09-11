@@ -1,0 +1,7 @@
+# Runtime aplikasi Streamlit (Python 3.12 di Streamlit Community Cloud).
+# PyTorch sengaja TIDAK dipasang: model dijalankan lewat ONNX Runtime (lihat README).
+streamlit==1.45.1
+onnxruntime==1.21.0
+numpy==2.2.6
+pandas==2.2.3
+plotly==5.24.1

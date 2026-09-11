@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.streamlit/secrets.toml
+deploy_artifacts/
+deploy_artifacts.zip
+jena_climate_2009_2016.csv
+.DS_Store

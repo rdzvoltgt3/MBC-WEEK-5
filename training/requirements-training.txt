@@ -1,0 +1,8 @@
+# Hanya untuk menjalankan training/train_export.py (Kaggle/Colab/lokal), BUKAN untuk Streamlit Cloud.
+torch>=2.2
+numpy
+pandas
+scikit-learn
+joblib
+onnx
+onnxruntime
